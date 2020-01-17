@@ -36,15 +36,32 @@ Before moving onto these, please make sure you are happy with the overall look o
 ## Questions To Answer: 
 This is your chance to talk about the prompt! Please provide these answers on your README. 
 - Please share your screen resolution, OS, browser version (best if you're using latest) you used to test in so we can look at it in: 
-  a. ```Screen Resolution: 2880 x 1800 ```
-     ```OS:  MacOS Mojave v 10.14.6```
-     ```Browser:  Google Chrome Version 79.0.3945.117 (Official Build) (64-bit)```
+
+    ```Screen Resolution: 2880 x 1800 ```
+    ```OS:  MacOS Mojave v 10.14.6```
+    ```Browser:  Google Chrome Version 79.0.3945.117 (Official Build) (64-bit)```
+
 - What part of the design did you get stuck on? What took the most time? Similarly, what was the easiest part? 
-  a. ```Hardest: Polish, due to time constraints and no accessible assets at the time, I left out all of the assets for the last part, but ran out of time```
-     ```Easiest: Positioning UI elements where I would like them to be, and getting up and running to develop the dashboard's content```
+
+    ```Hardest: Polish, due to time constraints and no accessible assets at the time, I left out all of the assets for the last part, but ran out of time. This was mostly due for me making everything from scratch and not really utilizing material/ui for this project.```
+    ```Easiest: Positioning UI elements where I would like them to be, and getting up and running to develop the dashboard's content```
+
 - What part of the design didn't make sense? Did you change anything?
-  a. ```The only thing that has changed was the line breack between the numbers in the dashboard, I felt like having a universal padding and giving a bit more white space on the left and right of the box looked clearer```
+
+    ```The only thing that has changed was the line breack between the numbers in the dashboard, I felt like having a universal padding and giving a bit more white space on the left and right of the box looked clearer```
+
 - If you had more time, what would you have liked to implement? 
-  a. ```Polish, polish, polish and the obvious missing icons```
+
+    ```Polish, polish, polish and the obvious missing icons```
+
 - What did you have to research or lookup while working on this?
-  a. ```Adding Google fonts to a Gatsby project```
+
+    ```Adding Google fonts to a Gatsby project```
+
+*** TO RUN THE PROJECT ***
+
+- First do a npm install to install all dependencies and then do the following to run the project. 
+
+    ```npm run develop``` || ```gatsby develop```
+
+- After your terminal should give information to which host url you can use to view the project.
